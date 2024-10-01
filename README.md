@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @um1ya2
 - 👀 I’m interested in Web develobing, Cyber and AI 
-- 🌱 I’m currently learning angular
+- 🌱 I’m currently learning angular and web developing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 - 😄 Pronouns: ...
