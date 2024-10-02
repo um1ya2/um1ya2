@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Umindu M.</h1>
 <h3 align="center">SE Undergratuate</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/CzdMW7wnLn8AAAAM/coding.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=um1ya2&label=Profile%20views&color=0e75b6&style=flat" alt="um1ya2" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=um1ya2&label=Profile%20views&color=0e75b6&style=flat" alt="um1ya2" /> </p>
 
 - 🌱 I’m currently learning **Angular**
 
