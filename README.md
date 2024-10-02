@@ -1,4 +1,4 @@
-[![MasterHead](https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u)
+(https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u)
 <h1 align="center">Hi 👋, I'm Umindu M.</h1>
 <h3 align="center">SE Undergratuate</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/CzdMW7wnLn8AAAAM/coding.gif">
