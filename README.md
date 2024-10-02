@@ -1,4 +1,4 @@
-https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u
+[![MasterHead](https://media.tenor.com/q4L3wKD-P7YAAAAj/hydra-we-bhack.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Umindu M.</h1>
 <h3 align="center">SE Undergratuate</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/CzdMW7wnLn8AAAAM/coding.gif">
