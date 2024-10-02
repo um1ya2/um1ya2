@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Docker, Supabase, AWS**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here]([https://github.com/salesp07/salesp07/issues](https://github.com/um1ya2))**
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/um1ya2/um1ya2/issues)**
 
 ⚡ Fun fact **Code comments are just love notes to your future self.**
 
