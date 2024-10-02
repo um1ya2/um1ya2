@@ -1,8 +1,13 @@
-[![Head](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWc2ZTRuMmNrMGd2ZHJjamRuOXhncGh2a3RydjNrZTFzZjUyYmQzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp)](https://giphy.com/EvaAnima)
+<div align="center">
+  <a href="https://giphy.com/EvaAnima">
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWc2ZTRuMmNrMGd2ZHJjamRuOXhncGh2a3RydjNrZTFzZjUyYmQzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp" alt="Head" />
+  </a>
+</div>
+
 <h1 align="center">Hi 👋, I'm Umindu M.</h1>
 <h3 align="center">SE Undergratuate</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/CzdMW7wnLn8AAAAM/coding.gif">
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=um1ya2&label=Profile%20views&color=0e75b6&style=flat" alt="um1ya2" /> </p>
+<p align="lest"> <img src="https://komarev.com/ghpvc/?username=um1ya2&label=Profile%20views&color=0e75b6&style=flat" alt="um1ya2" /> </p>
 
 - 🌱 I’m currently learning **Angular**
 
